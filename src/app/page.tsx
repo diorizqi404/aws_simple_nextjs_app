@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-        tessssssssssssssssssssssssssssssssssssssssssssssss
+        tes
       </h2>
 
       <div className={styles.center}>

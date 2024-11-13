@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-        tesgggregrelagisampebisa
+        sekali lagi
       </h2>
 
       <div className={styles.center}>

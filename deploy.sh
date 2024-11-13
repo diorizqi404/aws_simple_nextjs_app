@@ -1,6 +1,10 @@
 #!/bin/bash
-cd aws_simple_nextjs_app 
+export NVM_DIR=$HOME/.nvm;
+. $NVM_DIR/nvm.sh;
+
+cd /home/ubuntu/aws_simple_nextjs_app
 git pull origin master
-npm  install &&
-npm run build &&
+nvm use v22
+npm install &&
+npm build &&
 pm2 restart aws_simple_nextjs_app

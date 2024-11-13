@@ -6,5 +6,5 @@ cd /home/ubuntu/aws_simple_nextjs_app
 git pull origin master
 nvm use v22
 npm install &&
-npm build &&
+npm run build &&
 pm2 restart aws_simple_nextjs_app

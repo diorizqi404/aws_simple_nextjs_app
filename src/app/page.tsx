@@ -19,12 +19,10 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-           Welcome to 5minslearn!
-          </h2>
+        Welcome to 5minslearn!
+      </h2>
 
       <div className={styles.center}>
-        
-
         <a
           href="https://5minslearn.gogosoon.com/?ref=github_nextjs_app"
           className={styles.card}
@@ -36,8 +34,6 @@ export default function Home() {
           </h2>
           <p className={inter.className}>Learn tech in 5mins</p>
         </a>
-
-        
       </div>
     </main>
   )

@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-           Im Dio from UBIG. Im trainer for cloud computing bootcamp.
+           I'm Dio from UBIG. I'm trainer for cloud computing bootcamp.
           </h2>
 
       <div className={styles.center}>

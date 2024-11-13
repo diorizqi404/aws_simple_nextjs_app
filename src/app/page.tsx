@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-        Welcome to 5minslearn!
+        Im Dio, trainer ubig
       </h2>
 
       <div className={styles.center}>
